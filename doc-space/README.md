@@ -1,9 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# Copyright 2012 Matt Martz
+#
 # All Rights Reserved.
 #
-#   Ini buat cek signal bila run terminal kalo run di heroku atau host lainya gausah
+#   Ini buat cek signal bila run -
+# terminal kalo run di heroku atau -
+# host lainya gausah
+# paste di speed.py
 
 import csv
 import datetime
