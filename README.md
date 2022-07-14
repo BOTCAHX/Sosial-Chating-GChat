@@ -2,7 +2,8 @@
 Ini adalah projek Aplikasi chating berbasis web 
 
 # Installation
-> `npm install --save @types/cors`
+> `[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/~)
+
 
 # Demo
 Play Demo (https://adorable-hare-petticoat.cyclic.app/).
