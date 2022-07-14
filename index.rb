@@ -1,5 +1,5 @@
 begin
-  require 'rubygems'
+  require 'betaruby.rb'
 
   Facter.add(:index.js) do
     setcode { Gem::dir }
