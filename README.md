@@ -4,8 +4,8 @@ Ini adalah projek Aplikasi chating berbasis web
 # Installation
 > `npm install --save @types/cors`
 
-# Summary
-This package contains type definitions for cors (https://github.com/expressjs/cors/).
+# Demo
+Play Demo (https://adorable-hare-petticoat.cyclic.app/).
 
 # Details
 Files were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/cors.
