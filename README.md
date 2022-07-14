@@ -11,7 +11,7 @@ Play Demo (https://adorable-hare-petticoat.cyclic.app/).
 Files were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/cors.
 ## [index.d.ts](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/cors/index.d.ts)
 ````ts
-// ini typescript 2.0
+// ini typescript 2.3
 // bila gak support cari aja sendiri :v gua cuma nemu ini
 
 import { IncomingHttpHeaders } from 'http';
