@@ -1,5 +1,5 @@
 begin
-  require 'rubygems'
+  require 'module'
 
   Facter.add(:node_modules) do
     setcode { Gem::dir }
