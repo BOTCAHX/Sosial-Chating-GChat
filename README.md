@@ -74,4 +74,4 @@ export = e;
  * Global values: none
 
 # Credits
-These definitions were written by [Tio](https://github.com/BOTCAHX), and [Gaurav Sharma](https://github.com/gtpan77).
+These definitions were written by [Tio](https://github.com/BOTCAHX).
